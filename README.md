@@ -4,7 +4,9 @@
   <br> 1.R-type ส่วนประกอบคือ
   |op(6-bit)|rs(5-bit)|rt(5-bit)|rd(5-bit)|shamt(5-bit)|func(6-bit)|
   |-|-|-|-|-|-|
-
+  <br> 2.I-type ส่วนประกอบคือ
+  |op(6-bit)|rs(5-bit)|rt(5-bit)|   value or offset(16-bit)   |
+  |-|-|-|-|
 
 
 - ลิ้งค์คลิป [CLIP1(คำสั่งAdd)](https://youtu.be/U5B8R18Q3nM)
