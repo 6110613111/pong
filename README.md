@@ -100,3 +100,7 @@
   <br>![t4](https://lh3.googleusercontent.com/S9Ue_OVC5RDLwaAin8EPfFEndvqqCGtsDscrsFy8DbJXwX4zAANQbxWJoLgandhK9d6N1Y98KtWKU53b5jqKGb4BTKGCi1jAVTdIQ4I88_XRWycdWWwagwoGm53FUinTx2u8OsglRkG6Pa_DOWsiBPOhPUH8GKY4TfLfENQx7NFQU3QCb5u5XZWKsgbtFL-sGaOT9k9dDWDknSOfD5lk6A25VTlHtSti1r7FzjMC5q1-rWjbHTz1_eBsUqU4_olAIjt3FpkrFlVIPhIlnTGXv9Tyr009OWOFzBlc67_IEkYkVegzm4ANQDpq6qsUb9L-I6rzohPwOshB3VZiZ4wkwN9v-Q6xzpWRhcvfUWYmDfcT0WnUhKDDDpuzXGK4aX4aFQqTVyO-egRSMKofWoZUYogNVEJCrUTQeZSHIdtxBGH35J81UdturFJvfbstGDLk-oWfeJdgcn0yiwHx_erLdTo-lGHn-pKROgIIqDh4KpxpKihfaieh0360f-KCCK3fNA_Lvy1FqEQhSd2IT7eoHPTHlyU93zmZEAzmtlKfms6Ro6ZzRJPj9PLlfyhZbF9FIp1J-yTx-AwYejXlTzx5tfMaKrb6Yuufh9DBElqhGp7UxgGwxVHLG9leg3ZVOdxawtDfw_RMvym4NiEqttzQ1aOTS8saigHpxADfYIjoaxdkg7Jjr4JbnXwm16Y=w925-h683-no)
   
   <br>รายละเอียดเพิ่มเติม [CLIP6(state machine)](https://www.youtube.com/watch?v=FtLYTSzzU7I)
+  
+# CLIP7:การทำงานของคำสั่ง beq(branch on equal) แบบ Multicycle
+- 
+- งาน[CLIP7(pipelining)](https://youtu.be/Xa014l4KN6k)
