@@ -101,6 +101,6 @@
   
   <br>รายละเอียดเพิ่มเติม [CLIP6(state machine)](https://www.youtube.com/watch?v=FtLYTSzzU7I)
   
-# CLIP7:การทำงานของคำสั่ง beq(branch on equal) แบบ Multicycle
-- 
+# CLIP7:หลักการ Pipelining
+- Pipeline คือการทำงานแบบคาบเกี่ยวกัน (overlap) โดยการแบ่งซีพียูออกเป็นส่วนย่อย ๆ แล้วแบ่งงานกันรับผิดชอบ
 - งาน[CLIP7(pipelining)](https://youtu.be/Xa014l4KN6k)
