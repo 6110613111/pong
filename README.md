@@ -43,4 +43,4 @@
 
 
 # CLIP3:Singlecycle and Multicycle
-- แบบ singlecycle (photo1)(https://lings2mi.wordpress.com/2012/12/16/mips-r-format/attachment/01/)
+- แบบ singlecycle ()(https://lings2mi.files.wordpress.com/2012/12/figure4-11-mipsdatapathr-lod-beq.gif?w=702&zoom=2)
