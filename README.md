@@ -70,5 +70,15 @@
   <br>4.การทำงานของเเต่ละคำสั่งไม่เท่ากัน
   <br>5.มีการเก็บข้อมูลไว้ที่เเต่ละจุด
   
+- ลิ้งค์คลิป [CLIP3(Singlecycle and Multicycle)](https://www.youtube.com/watch?v=ns2NKb_gKvM)
+  
 # CLIP4:การทำงานของคำสั่ง lw(load word) ใน Multicycle
 
+- คำสั่ง lw นั้นมีขั้นตอนทั้งหมด 5 step(T1-T5)
+  <br>T1 : IR = Memory[PC] ,pc + 4 
+  <br>T2 : A=Reg[IR[25-21]] ,B=Reg[IR[20-16]] ,ALUout = PC+(sign-extend(IR[15-0])<<2)
+  <br>T3 : ALUout = A + (sign-extend(IR[15-0])
+  <br>T4 : Memory data register = Memmory(AlUout)
+  <br>T5 : B = Memory data register
+- รายละเอียดเพื่มเติมในคลิป [CLIP4(lw in muticycle)](https://www.youtube.com/watch?v=Z5NQPWH3Bhk&t=4s)
+  
