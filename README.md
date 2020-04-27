@@ -6,7 +6,7 @@
   |op(6-bit)|rs(5-bit)|rt(5-bit)|rd(5-bit)|shamt(5-bit)|func(6-bit)|
   |-|-|-|-|-|-|
   
-  ![p](rt.PNG)
+  ![p](rt1.jpg)
   
   <br>ตัวอย่างคำสั่ง add $rd,$rs,$rt
   
