@@ -48,5 +48,6 @@
 ![p1](https://lings2mi.files.wordpress.com/2012/12/figure4-11-mipsdatapathr-lod-beq.gif?w=702&zoom=2)
 
 - แบบ multicycle
+  ข้อสังเกตุ
 
-![p2](multicycle.png)
+![p2](https://camo.githubusercontent.com/3a759f503101d7359e3b9e88a79a64b022814d5a/68747470733a2f2f692e696d6775722e636f6d2f6d5758485770542e706e67)
