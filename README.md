@@ -3,12 +3,11 @@
 - ใน CPU MIPS คำสั่งมีขนาด 32-bit เเบ่งเป็น 3 แบบ คือ
   <br>1.R-type ส่วนประกอบคือ
   ![i](https://drive.google.com/file/d/1fWAumswl5BsaHHyyDIJdfVm_kp-du-Hd/view?usp=sharing)
+  <br>
   
   |op(6-bit)|rs(5-bit)|rt(5-bit)|rd(5-bit)|shamt(5-bit)|func(6-bit)|
   |-|-|-|-|-|-|
   
-  
-  ![p](rt1.jpg)
   
   <br>ตัวอย่างคำสั่ง add $rd,$rs,$rt
   
