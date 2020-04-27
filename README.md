@@ -2,7 +2,7 @@
 ## สิ่งที่ควรรู้
 - ใน CPU MIPS คำสั่งมีขนาด 32-bit เเบ่งเป็น 3 แบบ คือ
   <br>1.R-type ส่วนประกอบคือ
-  <br>![i](https://photos.google.com/photo/AF1QipO-v3nt9lEQl4km_oygr3xVOSn3IODeiBVso9oM)
+  <br>![i](https://lh3.googleusercontent.com/O-jKbPnwE1kc319eqSgEFoVvowAM75rzraNyQaQ7EaIifmswtU0miSSe_YQANMKfA5ZifO8e88lj70E_4219Yh8ccGaURF-8zeZlnRlghcCge-9ggKCAaZ1cyCib8kGbBfDCk8eBKJMHDpQunScyiZrxDtICPeP-64NIsLFAlLjJ3cuHBcYlX4-1zqajmuxns6iQSEWgZwdMPEJuV6YhMVdNu9lEQ6bfQUxmX0d4HNkWTrULOGzKxQucL8dxY6qRxOCuJfRKD-OdpARO_V07fZ0u8bKZYW-jux_7DADeKCj7--EFGNthopxSXXtRlbYZktAldO5cyv--15fm0uGYnXdRUFtH2DawpmwExQO7jzNru3XY8NGbcw6Bobs1EnnlWNZfWZLycmqm515MNaCa3LPttWgb4I9pEwypt96rQCpbm38M6Y4diRrO_UMACCnvUtQQxsjDaUdHHEA0cfFFFrSA9yVqSDkPytNSLz0W1X4NLsizerZ_TEkESngz8pLS1gdk-IgwIynlVmjMXK-wqBKegGJ4qaI-ZmqRnpz9ENL7qHCqnRMHrpfE3i9B1AdxmksT5ULYvUNu7pLdnVW_DlTCd20twUwGdIoNg5oLD03_FFu9C--4v4-NpK6gVG9KJEPJTmVT0eOeO66Nr881XYwGRWt6RrIciX2X0U76ROwcPt1vRy6uMZvJFMD7PhPiwJM-dK6LmY4jB1lGy2gdmUxE3bcPwuLiwbu8uaVfihWe_IJl5jfw=w648-h45-no)
 
   
   |op(6-bit)|rs(5-bit)|rt(5-bit)|rd(5-bit)|shamt(5-bit)|func(6-bit)|
