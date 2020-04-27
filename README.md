@@ -2,18 +2,21 @@
 ## สิ่งที่ควรรู้
 - ใน CPU MIPS คำสั่งมีขนาด 32-bit เเบ่งเป็น 3 แบบ คือ
   <br>1.R-type ส่วนประกอบคือ
+  
   |op(6-bit)|rs(5-bit)|rt(5-bit)|rd(5-bit)|shamt(5-bit)|func(6-bit)|
   |-|-|-|-|-|-|
   
   <br>ตัวอย่างคำสั่ง add $rd,$rs,$rt
   
   <br>2.I-type ส่วนประกอบคือ
+  
   |op(6-bit)|rs(5-bit)|rt(5-bit)|   value or offset(16-bit)   |
   |-|-|-|-|
   
   <br>ตัวอย่างคำสั่ง lw $rt,offset($rs)
 
   <br>3.J-type ส่วนประกอบคือ
+  
   |op(6-bit)|    absolute address(26-bit)    |
   |-|-|
   
@@ -48,6 +51,8 @@
 ![p1](https://lings2mi.files.wordpress.com/2012/12/figure4-11-mipsdatapathr-lod-beq.gif?w=702&zoom=2)
 
 - แบบ multicycle
-  <br> ## ข้อสังเกตุ
+  <br> 
+  <br>
+  <br>
 
 ![p2](https://camo.githubusercontent.com/3a759f503101d7359e3b9e88a79a64b022814d5a/68747470733a2f2f692e696d6775722e636f6d2f6d5758485770542e706e67)
