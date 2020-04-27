@@ -45,7 +45,7 @@
 # CLIP3:Singlecycle and Multicycle
 - แบบ singlecycle 
 
-![p1](singlecycle.png)
+![p1](https://lings2mi.files.wordpress.com/2012/12/figure4-11-mipsdatapathr-lod-beq.gif?w=702&zoom=2)
 
 - แบบ multicycle
 
