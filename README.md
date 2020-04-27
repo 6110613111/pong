@@ -72,7 +72,7 @@
   
 - ลิ้งค์คลิป [CLIP3(Singlecycle and Multicycle)](https://www.youtube.com/watch?v=ns2NKb_gKvM)
   
-# CLIP4:การทำงานของคำสั่ง lw(load word) ใน Multicycle
+# CLIP4:การทำงานของคำสั่ง lw(load word) แบบ Multicycle
 
 - คำสั่ง lw นั้นมีขั้นตอนทั้งหมด 5 step(T1-T5)
   <br>T1 : IR = Memory[PC] ,pc + 4 
@@ -82,3 +82,10 @@
   <br>T5 : B = Memory data register
 - รายละเอียดเพื่มเติมในคลิป [CLIP4(lw in muticycle)](https://www.youtube.com/watch?v=Z5NQPWH3Bhk&t=4s)
   
+# CLIP5:การทำงานของคำสั่ง beq(branch on equal) แบบ Multicycle
+
+- คำสั่ง beq นั้นมีขั้นตอนทั้งหมด 3 step(T1-T3)
+  <br>T1 : IR = Memory[PC] ,pc + 4 
+  <br>T2 : A=Reg[IR[25-21]] ,B=Reg[IR[20-16]] ,ALUout = PC+(sign-extend(IR[15-0])<<2)
+  <br>T3 : If(A==B) PC = ALUout 
+- รายละเอียดเพื่มเติมในคลิป [CLIP5(beq in muticycle)](https://www.youtube.com/watch?v=bck_AWRrWS4)
