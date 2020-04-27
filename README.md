@@ -12,7 +12,6 @@
   <br>ตัวอย่างคำสั่ง lw $rt,offset($rs)
 
   <br>3.J-type ส่วนประกอบคือ
-  
   <br>![j](https://lh3.googleusercontent.com/GN7ANMHQvPJk5b4cRRTvHSsL8xf1xyQRTkuvBLMXv7ldU0BN-EZ5Ezbvx3IF7EFlOWFxT-0RxEhvbICn2f_p4IcmtStmoZ_UGQ9pSa4OAQAvNQCynVGIOBDLVMwxn__VV8mUUb7fg8hCQvMJUiNTOmYk3ndnRZ9kQGT14P7lJVUaHutvI8uChnxrJksNEeQhXkjrK7DIA6_tRI9IBx8TT2KbMDO5jtb9FA2hrwuD4NO4Rh5Tzs0g0llI8booUfl_nk1SCiKNCGh9llmaVdINLsgGRtB-dqG3s0BgDerYLodx6bOUcL8l2GXwvIXfjEbZcpIdavUO4hQsijS0ozwxSs1bsrOqYcAYTop2jv6KNqcVN1AimI1EEodqU1HFT6ceKlUvfoL3Bftu_IUTQs9ftviQyHNBPIR-ggPQgyiUvWwKrHtWUjYoK77AOArPSiWfsTC_w7KA12veLP3Ww6cb4BqU6S6no86kmNa6-fo3OREyJxs7yrTkxhTWfXI6byJluFmb030-8YWIoPBVu0FkaJpLKoiPlzf_Eqqzov-11BW-HBDrLA-q0s13CDCpkpOn2dgbN-np4h_ryACOGsMbM1YKKQ5BjIb_aqTgs3vNcpayeEENwJSffJ-eP7RN8rEWtTQHmbkyZET_hVb69WbCYqilF-qfgZxXXUVok1wJGJT3BzUX8St1KVyyo-o=w336-h42-no)
   
   <br>ตัวอย่างคำสั่ง j address
