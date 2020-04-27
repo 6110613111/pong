@@ -89,3 +89,7 @@
   <br>T2 : A=Reg[IR[25-21]] ,B=Reg[IR[20-16]] ,ALUout = PC+(sign-extend(IR[15-0])<<2)
   <br>T3 : If(A==B) PC = ALUout 
 - รายละเอียดเพื่มเติมในคลิป [CLIP5(beq in muticycle)](https://www.youtube.com/watch?v=bck_AWRrWS4)
+
+# CLIP6:คำสั่ง R-Type ใน state machine แบบ multicycle
+
+- 
