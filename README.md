@@ -43,4 +43,4 @@
 
 
 # CLIP3:Singlecycle and Multicycle
-- ใน cpu mips 
+- แบบ singlecycle (รูป1)(https://lings2mi.wordpress.com/2012/12/16/mips-r-format/attachment/01/)
