@@ -2,7 +2,6 @@
 ## สิ่งที่ควรรู้
 - ใน CPU MIPS คำสั่งมีขนาด 32-bit เเบ่งเป็น 3 แบบ คือ
   <br>1.R-type ส่วนประกอบคือ
-  <br>
   
   |op(6-bit)|rs(5-bit)|rt(5-bit)|rd(5-bit)|shamt(5-bit)|func(6-bit)|
   |-|-|-|-|-|-|
@@ -49,13 +48,27 @@
 
 
 # CLIP3:Singlecycle and Multicycle
+
 - แบบ singlecycle 
 
 ![p1](https://lings2mi.files.wordpress.com/2012/12/figure4-11-mipsdatapathr-lod-beq.gif?w=702&zoom=2)
 
+  <br> **ข้อสังเกตุ**
+  <br>1.คำสั่งจบใน 1 cycle
+  <br>2.มี memory 2 ตัว
+  <br>3.มี ALU 3 ตัว
+  <br>4.การทำงานของเเต่ละคำสั่งใช้เวลาเท่ากัน(เป็นเวลาของคำสั่งที่นานที่สุด)
+  
 - แบบ multicycle
-  <br> 
-  <br>
-  <br>
-
+ 
 ![p2](https://camo.githubusercontent.com/3a759f503101d7359e3b9e88a79a64b022814d5a/68747470733a2f2f692e696d6775722e636f6d2f6d5758485770542e706e67)
+
+  <br>**ข้อสังเกตุ**
+  <br>1.คำสั่งเเต่ละคำสั่งไม่จบใน 1 cycle
+  <br>2.มี memory 1 ตัว
+  <br>3.มี ALU 1 ตัว
+  <br>4.การทำงานของเเต่ละคำสั่งไม่เท่ากัน
+  <br>5.มีการเก็บข้อมูลไว้ที่เเต่ละจุด
+  
+# CLIP4:การทำงานของคำสั่ง lw(load word) ใน Multicycle
+
